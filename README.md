@@ -72,7 +72,7 @@ Instructions on how to use the Employee Tracker for Space Force
    node server.js
    ```
 ## Usage 
-![Employee Tracker](images/Employe-Tracker.png)
+![Employee Tracker](images/Employee-Tracker.png)
 ## Credits 
 - Youtube: [Youtube](https://youtube.com)
 - Visual Studio Code: [VS Code](https://code.visualstudio.com/)
